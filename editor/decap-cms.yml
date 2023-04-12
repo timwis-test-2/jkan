@@ -3,6 +3,7 @@
 
 backend:
   name: github
+  open_authoring: true
 
 media_folder: "img/uploads"
 
