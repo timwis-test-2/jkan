@@ -5,6 +5,8 @@ backend:
   name: github
   open_authoring: true
 
+publish_mode: editorial_workflow
+
 media_folder: "img/uploads"
 
 collections:
